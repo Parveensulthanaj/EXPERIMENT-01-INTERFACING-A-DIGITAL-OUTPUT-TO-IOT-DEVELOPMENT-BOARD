@@ -1,7 +1,7 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:** 29?04/2026
+**DATE:** 29/04/2026
 
 **NAME:** PARVEEN SULTHANA J
 
@@ -167,8 +167,10 @@ static void MX_GPIO_Init(void)
 ## OUTPUT:
 
 ### ON:
+<img width="900" height="1600" alt="on" src="https://github.com/user-attachments/assets/db66981d-7d43-4bdd-b809-5a1fa0a65949" />
 
 ### OFF:
+<img width="900" height="1600" alt="off" src="https://github.com/user-attachments/assets/6f1e9663-f60b-4f21-a0c2-5df7c699ed36" />
 
 
 ## Result
